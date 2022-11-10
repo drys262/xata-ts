@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Dylan-Koei-Chavez-s-workspace-apgms2.us-east-1.xata.sh/db/example-db",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
